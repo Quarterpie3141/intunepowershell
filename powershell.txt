@@ -1,5 +1,4 @@
-https://enrollment.manage.microsoft.com/enrollmentserver/discoverry.svc
-Tox70353
+
 $EnrollmentsPath = "HKLM:\SOFTWARE\Microsoft\Enrollments\"
  
 $Enrollments = Get-ChildItem -Path $EnrollmentsPath
